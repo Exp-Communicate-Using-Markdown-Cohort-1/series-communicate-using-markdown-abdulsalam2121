@@ -5,3 +5,8 @@
 ##### This is heading 5 <h5>
 ###### This is heading 6 <h6>
 ![Github Logo](https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png)
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
