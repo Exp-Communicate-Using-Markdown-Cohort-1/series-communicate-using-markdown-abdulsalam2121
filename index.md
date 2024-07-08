@@ -10,3 +10,14 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+- [ ] Milk
+
+- [ ] Bread
+
+- [x] Eggs (get these!)
+
+- [x] Hike in the morning (complete!)
+
+- [ ] Relax in the afternoon
+
+- [ ] Movie night with friends (maybe?)
